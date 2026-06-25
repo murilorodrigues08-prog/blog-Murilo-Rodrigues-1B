@@ -1,3 +1,7 @@
-body {
-    background-color: dimgray
+.cabecalho{
+    background-color: rgb(247, 139, 241)
+}
+
+.conteudo-principal{
+    background-color: lightpink;
 }
