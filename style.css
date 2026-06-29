@@ -1,7 +1,15 @@
 .cabecalho{
-    background-color: rgb(247, 139, 241)
+    background-color: rgb(247, 139, 241);
+    text-align: center;
+    max-width: 800px;
+    margin: 30px;
 }
 
 .conteudo-principal{
     background-color: lightpink;
+}
+
+.imagem-principal{
+    width: 150px;
+    height: 150px;
 }
