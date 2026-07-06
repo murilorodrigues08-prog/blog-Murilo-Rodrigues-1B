@@ -2,16 +2,20 @@
     background-color: rgb(247, 139, 241);
     text-align: center;
     max-width: 800px;
-    margin: 30px;
+    margin: 0 auto;
+    padding: 16x;
 }
 
 .conteudo-principal{
     background-color: lightpink;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 16x;
 }
 
 .imagem-principal{
-    width: 150px;
-    height: 150px;
+    width: 400px;
+    height: 300px;
 }
 
 .cabecalho-paragrafo{
